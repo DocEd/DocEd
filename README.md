@@ -1,9 +1,8 @@
 ## About Me
 
-I'm a clinician scientist finishing up my PhD at UCL.
-My clinical background is in anaesthesia and intensive care medicine.
-My thesis explores the secondary use of electronic health records for research goals that are perhaps challenging to answer under traditional RCT frameworks.
-This might be because the signals are very small, that its too expensive, or there are concerns over equipoise.
+I'm a doctor and academic working in anaesthesia and intensive care medicine based in North London.
+My academic role is as an NIHR clinical lecturer at UCL where I am interested in the re-use of electronic health records for research.
+Particularly where research goals may be challenging to answer under traditional frameworks because anticipated effect sizes are very small, that its too expensive, or there are concerns over equipoise.
 
 I am currently working on 2 major projects:
 
